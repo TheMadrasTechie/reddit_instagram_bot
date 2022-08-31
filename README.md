@@ -1,4 +1,10 @@
-<a href="https://youtu.be/GS_0ZKzrvk0" target="_blank"><img src="https://i.imgur.com/xqj5z4b.png" title="Clarity Coders YouTube" /></a>
+I have created with the help of code from the following youtube channel.
+
+You can take a look at them.
+The below comments are written by the creator of the main file.
+
+After doing the setup all you need to do is **pip install instabot** and run the python program to start the bot.
+
 # Fully Automated YouTube Shorts Channel
 > This code will show you how to setup and fully autmated YouTube Channel.
 > Content is gathered from Reddit using images both animated and still images will work.
